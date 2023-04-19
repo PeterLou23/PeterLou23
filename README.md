@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PeterLou23
+- 👋 Hi, I'm Peter Lou
 - 👀 I’m interested in Software Developing
 - 🌱 I’m currently learning Java, Pyton and Swfit
 - 💞️ I’m looking to collaborate on ...
